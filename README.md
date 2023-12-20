@@ -4,6 +4,8 @@
 </br></br></br>
 Every day advice with kaneki, it's fun 😃
 
+live demo: [https://lnkd.in/eGN8M6B3](https://ilyassezzam.github.io/Sharingan-Advice/ )
+
 
 ## Description :man_technologist:
 
@@ -20,8 +22,6 @@ This project is about creating a tip using React.js on the frontend, and Tailwin
   * **React.js**: A JavaScript library for building user interfaces.
 
   * **Tailwind CSS**: A utility-first CSS framework for styling the front end.
-
-  * **Framer Motion**: Used for adding animations and transitions to the user interface.
 
 
 ## Showcase :sparkler:
